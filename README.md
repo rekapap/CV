@@ -1,29 +1,32 @@
-## Your Name
+## Reka Pap
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm a full stack developer in the making, with the background of graphic/web design and art history. I recently discovered that I enjoy coding and, after learning some basics on my own, I joined Makers Academy to progress my new carrier path. I want to learn new technologies, and work on interesting and challenging projects.
 
 ## Skills
 
-#### This Skill
+#### Attention to detail
+During graphic design and animation work being meticulous is paramount for good results, so I got used to watch out for fine detail.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Creativity
+While I was working as graphic designer, I had to come up novel designs constantly, that fits the customer expectations. I learnt techniques that allow me to expand my creativity. 
 
-- Experience
-- Achievements
-- Evidence
+#### Inquisitive
+I like to have complete understanding how things work, and do my research on the topic.
 
-#### Another Skill
+#### Problem solving
+That's the most interesting part for me from coding. Therefore I started solving online problems to progress faster.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+## Personal interest
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Cooking, baking
+I love recipes that list every ingredients in grams, even the eggs. Especially the eggs!
+
+#### Art in any quantity
+I'm big fan of Art in general, Architecture, and pop culture. I like to draw as well, and do 'things' with my hand. Once my comic was selected for publishing in an independent comic book.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (October 2018 to December 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +37,48 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### LIBERAL ARTS / September 2010 - July 2014
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Pázmány Péter Catholic University
+Faculty of Humanities and Social Sciences, Piliscsaba (Hungary)
+Art History major
+- Architecture
+- Contemporary Art
+- Crafts and Design history
+- Aesthetic
+- Digital Photo, Graphics and Animation
 
-#### Any other qualifications
+#### WEBDESIGN AND NEW MEDIA, GRAPHIC DESIGN / September 2013 - March 2015
+
+KREA Contemporary Art School, Budapest (Hungary)
+- Logo and Brand History
+- Graphic and Web Design Projects
+- Typography
+- CSS and HTML coding
+- PhotoShop, Illustrator, InDesign
+- Marketing
+- Web ergonomics
+- Art History
+
+#### 2D ANIMATOR, inbetweening / June 2013 – May 2014
+
+Magyar Rajzfilm Kft., Budapest (Hungary) 
+(traditional animation)
+- Animation, Drawing Studies
+- Business
+- Art History
+- Folk Art
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Habcsók Design** (formerly Pepitadots), Budapest / May 2013 – November 2014
+
+*DESIGNER* 
+
+**Mediasales Kft.** Budapest / September 2013 – October 2014
+
+*DESIGNER INTERN* 
+
+**Hungarian Architecture Museum** Budapest / August 2012
+
+*INTERN*
