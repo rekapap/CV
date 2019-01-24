@@ -1,6 +1,37 @@
 ## Reka Pap
 
-I'm a full stack developer in the making, with the background of graphic/web design and art history. I recently discovered that I enjoy coding and, after learning some basics on my own, I joined Makers Academy to progress my new carrier path. I want to learn new technologies, and work on interesting and challenging projects.
+## Introduction
+### About me
+I'm a full stack developer with experience in graphic design and animation.
+
+### Where did my interest start
+It started with building simple websites in CSS and HTML or using Joomla. Meanwhile, I was teaching myself Photoshop, Illustrator and other design software. Later on, my software engineer partner started quizzing me on various programming questions just for fun. That's when my interests fully got peaked. Since then I enjoy solving problems on various websites like Codewars, Hackerrank, Leetcode etc.
+
+### Where I Work Best
+In an open-minded, motivated and moderately geeky tech team who work to high standards while having fun at the same time. Preferably while watching Avengers. I also add graphic design skills to the team, but I'm committed to a career change as a Full-Stack or Back-end developer.
+
+### What I'm currently working on
+Expanding my 'horizon' by learning new things, like Phaser.js, P5.js, Java, iOS Mobile App development using Swift.
+
+### What I Bring
+- High-Level Design Skills / Architecture
+- Deep interest in tech languages (e.g. Java, C#, Swift)
+- Self-Led Learning
+- Holding myself to high standards
+- Graphic Design skills (PhotoShop, Illustrator, InDesign)
+
+## Projects
+
+### Makers Projects
+1. Splitr(https://github.com/JL-J/splitr_app)
+  - A Native Mobile app that helps split task between friends in preparation for an event.
+  - ECMAScript 6, React Native, Redux, Jest, Enzyme, ESlint, Agile, Teamwork (XCode, Andriod Studio)
+2. Makers BNB(https://github.com/toddpla/makersbnb)
+  - AirBNB 'Clone'
+  - Sinatra, Active Record ORM, Travis, Heroku, Pony, Twilio, Capybara, Rspec, simplecov, Rakefiles, Agile, Teamwork
+3. Acebook(https://github.com/rekapap/acebook-busy-politicians)
+  - Facebook 'Clone'
+  - Ruby on Rails, JQuery, Devise, Travis, Heroku, Capybara, Rspec, Teamwork
 
 ## Skills
 
@@ -8,7 +39,7 @@ I'm a full stack developer in the making, with the background of graphic/web des
 During graphic design and animation work being meticulous is paramount for good results, so I got used to watch out for fine detail.
 
 #### Creativity
-While I was working as graphic designer, I had to come up novel designs constantly, that fits the customer expectations. I learnt techniques that allow me to expand my creativity. 
+While I was working as graphic designer, I had to come up novel designs constantly, that fits the customer expectations. I learnt techniques that allow me to expand my creativity.
 
 #### Inquisitive
 I like to have complete understanding how things work, and do my research on the topic.
@@ -16,26 +47,74 @@ I like to have complete understanding how things work, and do my research on the
 #### Problem solving
 That's the most interesting part for me from coding. Therefore I started solving online problems to progress faster.
 
-## Personal interest
 
-#### Cooking, baking
-I love recipes that list every ingredients in grams, even the eggs. Especially the eggs!
+## Experience
 
-#### Art in any quantity
-I'm big fan of Art in general, Architecture, and pop culture. I like to draw as well, and do 'things' with my hand. Once my comic was selected for publishing in an independent comic book.
+**Makers** (September 2018 - December 2018)
+
+- Pair Programming, Teamwork, Agile
+- Learning new concepts
+
+
+**Managing Home Renovation Project** (2017 February - Spring 2018)
+
+- Project manage a team of builders and renovators to renovate a new property and rebuild it (almost from scratch)
+- Skills Developed: Project Management, People Management, Leadership, Having to learn a new skill set to successfully manage and monitor this team (how to plaster, build a bathroom etc.)
+
+
+**Job Hunting in UK as a Graphic Designer** (March 2016 - January 2017)
+
+- During this time I started learning the basics of Programming(Java) through books.
+
+
+**Buying a New Property** (March 2015 - January 2016)
+
+- Researching the UK property market for a renovation project
+
+
+**Designer @ Habcsók Design** (formerly Pepitadots), Budapest / May 2013 – November 2014
+
+- Supporting on developing the company’s brand, including name, logo
+- Produce concepts for brand guideline
+- Assisting with creation of the product lines
+- Supporting business functions
+- Market analysis
+- Designed Habcsók children T-shirts
+- Designed Habcsók post cards
+- Illustration (digital painting)
+- Research printing technologies for products
+- Experience with Illustrator, PhotoShop and InDesign softwares
+
+
+**Designer Intern @ Mediasales Kft.** Budapest / September 2013 – October 2014
+
+- Facebook application designs from briefs (design and a bit of coding) f.ex.: Bruno Mars Budapest
+tour 2013 event game app, Mekk Mester event game app
+- Designing web-page concepts in PhotoShop
+- Creating design artworks in Illustrator for print (inside use)
+- Content editing in Joomla (uploading and checking content, using plugins)
+- Research for projects
+- Working closely with the design and marketing team
+- Creatively contribute to the designs and new projects
+- Working experience with HTML and CSS
+- Image editing in PhotoShop for Social Media f.ex.: Duna Plaza Facebook
+- Meeting deadlines
+
+
+**Intern @ Hungarian Architecture Museum** Budapest / August 2012
+
+- Organising and cataloging Artworks
+
 
 ## Education
 
 #### Makers Academy (October 2018 to December 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
+- Learning new concepts fast and independently
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, React Native, Redux
+- RSpec, Jasmine, Jest
 
 #### LIBERAL ARTS / September 2010 - July 2014
 
@@ -57,28 +136,24 @@ KREA Contemporary Art School, Budapest (Hungary)
 - CSS and HTML coding
 - PhotoShop, Illustrator, InDesign
 - Marketing
-- Web ergonomics
+- Web ergonomics(User experience)
 - Art History
+
 
 #### 2D ANIMATOR, inbetweening / June 2013 – May 2014
 
-Magyar Rajzfilm Kft., Budapest (Hungary) 
+Magyar Rajzfilm Kft., Budapest (Hungary)
 (traditional animation)
 - Animation, Drawing Studies
 - Business
 - Art History
 - Folk Art
 
-## Experience
 
-**Habcsók Design** (formerly Pepitadots), Budapest / May 2013 – November 2014
+## Personal interest
 
-*DESIGNER* 
+#### Cooking, baking
+I love recipes that list every ingredients in grams, even the eggs. Especially the eggs!
 
-**Mediasales Kft.** Budapest / September 2013 – October 2014
-
-*DESIGNER INTERN* 
-
-**Hungarian Architecture Museum** Budapest / August 2012
-
-*INTERN*
+#### Art in any quantity
+I'm big fan of Art in general, Architecture, and pop culture. I like to draw as well, and do 'things' with my hand. Once my comic was selected for publishing in an independent comic book.
