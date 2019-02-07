@@ -86,7 +86,7 @@ Expanding my 'horizon' by learning new things, like Data Structures, Phaser.js, 
 
 **Job Hunting in UK as a Graphic Designer** (March 2016 - January 2017)
 
-- During this time I started learning the basics of Programming(Java) through books.
+- Since I didn't have experience working in the UK, and my portfolio was not showcasing corporational designs, it was hard for me to find a company that could fully utilise my skills. However, during this time I started learning the basics of Programming (Java) through books.
 - **Skills developed:** Learning on my own
 
 
