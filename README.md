@@ -64,16 +64,17 @@ Expanding my 'horizon' by learning new things, like Data Structures, Phaser.js, 
 - RSpec, Jasmine, Jest
 
 
-**LIBERAL ARTS, Art History Major** @ Pázmány Péter Catholic University Faculty of Humanities and Social Sciences, Piliscsaba, Hungary (September 2010 - July 2014)
-- I specialised in Hungarian Architecture in the early 20th century
+**2D ANIMATION, inbetweening** @ Magyar Rajzfilm Kft., Budapest, Hungary (June 2013 – May 2014)
+- Animation (mainly traditional)
 
 
 **WEBDESIGN AND NEW MEDIA, GRAPHIC DESIGN** @ KREA Contemporary Art School, Budapest, Hungary (September 2013 - March 2015)
 - Graphic and Web Design Projects, CSS, HTML, PhotoShop, Illustrator, InDesign, User experience
 
 
-**2D ANIMATION, inbetweening** @ Magyar Rajzfilm Kft., Budapest, Hungary (June 2013 – May 2014)
-- Animation (mainly traditional)
+**LIBERAL ARTS, Art History Major** @ Pázmány Péter Catholic University Faculty of Humanities and Social Sciences, Piliscsaba, Hungary (September 2010 - July 2014)
+- I specialised in Hungarian Architecture in the early 20th century
+
 
 
 ## Experience
