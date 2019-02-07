@@ -5,7 +5,7 @@ I'm a full stack developer with experience in graphic design and animation.
 
 <details><summary> CV GAME - Click here if you are feeling playful</summary>
 <p>
-On your way of reading my CV you might see some special eggs. If you click on them the egg hatches, and you might find a creature. Try to collect them all, and note the name and section. At the end of your journey, you can compare your findings to the  solution.
+On your way of reading my CV you might see some special eggs. If you click on them (please, open the links in a new window) the egg hatches, and you might find a creature. Try to collect them all, and note the name and section. At the end of your journey, you can compare your findings to the  solution.
 Good luck, and don't forget... Gotta Catch 'Em All!
 </p>
 </details>
