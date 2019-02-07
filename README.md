@@ -72,7 +72,7 @@ Expanding my 'horizon' by learning new things, like Data Structures, Phaser.js, 
 - Graphic and Web Design Projects, CSS, HTML, PhotoShop, Illustrator, InDesign, User experience
 
 
-**2D ANIMATION, inbetweening** @ Magyar Rajzfilm Kft., Budapest, Hunagry (June 2013 – May 2014)
+**2D ANIMATION, inbetweening** @ Magyar Rajzfilm Kft., Budapest, Hungary (June 2013 – May 2014)
 - Animation (mainly traditional)
 
 
