@@ -14,7 +14,7 @@ Good luck, and don't forget... Gotta Catch 'Em All!
 ## Profile
 
 ### Where did my interest start
-It started with building simple websites in CSS and HTML or using Joomla. Meanwhile, I was teaching myself Photoshop, Illustrator and other design softwares. Later on, my software engineer partner started quizzing me on various programming questions just for fun. That's when my interests fully got peaked. [🥚](https://www.pokemon.com/uk/pokedex/bulbasaur) Since then I enjoy solving problems on various websites like Codewars, Hackerrank, Leetcode etc.
+It started with building simple websites in CSS and HTML or using Joomla. Meanwhile, I was teaching myself Photoshop, Illustrator and other design softwares. Later on, my software engineer partner started quizzing me on various programming questions just for fun. That's when my interests fully got peaked. <a href="https://www.pokemon.com/uk/pokedex/bulbasaur" target="_blank">🥚</a> Since then I enjoy solving problems on various websites like Codewars, Hackerrank, Leetcode etc.
 
 ### Where I Work Best
 In an open-minded, motivated and moderately geeky tech team who work to high standards while having fun at the same time. Preferably while watching Avengers. I also add graphic design skills to the team, but I'm committed to a career change as a Full-Stack or Back-end developer.
@@ -59,7 +59,7 @@ Expanding my 'horizon' by learning new things, like Data Structures, Phaser.js, 
 **Web Development** @ Makers Academy (October 2018 - December 2018)
 - Learning new concepts fast and independently
 - OOP, TDD, MVC, DDD
-- Agile, XP, [🥚](https://www.pokemon.com/uk/pokedex/psyduck)
+- Agile, XP, <a href="https://www.pokemon.com/uk/pokedex/psyduck" target="_blank">🥚</a>
 - Ruby, Rails, JavaScript, React Native, Redux, APIs etc.
 - RSpec, Jasmine, Jest
 
@@ -117,7 +117,7 @@ Expanding my 'horizon' by learning new things, like Data Structures, Phaser.js, 
 ## Personal interest
 
 #### Cooking, baking
-I love recipes that list every ingredients in grams, even the eggs. Especially the [🥚](https://www.pokemon.com/uk/pokedex/exeggcute)s!
+I love recipes that list every ingredients in grams, even the eggs. Especially the <a href="https://www.pokemon.com/uk/pokedex/exeggcute" target="_blank">🥚</a>s!
 
 #### Art in any quantity
 I'm big fan of Art in general, Architecture, and pop culture. I like to draw as well, and do 'things' with my hand. Once my comic was selected for publishing in an independent comic book anthology.
