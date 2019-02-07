@@ -1,7 +1,7 @@
 ## Reka Pap
 
 ### TL;DR
-I'm a full stack developer with experience in graphic design and animation.
+I'm a full stack developer with graphic design and animation background.
 
 <details><summary> CV GAME - Click here if you are feeling playful</summary>
 <p>
