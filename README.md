@@ -30,7 +30,7 @@ Expanding my 'horizon' by learning new things, like Data Structures, Phaser.js, 
 - Self-Led Learning (e.g. [Data Structures](https://github.com/rekapap/data-structures) or other programming languages, see above)
 - Attention to detail (I like things to be 'pixel-perfect', a skill that I developed during my designer years)
 - Helping others (During the course and precourse I tried to share my knowledge with my peers as best as I could. I also mentored an other Maker from a cohort after mine.)
-- Graphic Design skills including PhotoShop, Illustrator, InDesign ([see my design portfolio here](https://drive.google.com/file/d/0sB5esC9AcPyIETVFMWkNBSkpLR3VScy1ocVYzZmhxNW5VbTZB/view?usp=sharing))
+- Graphic Design skills including PhotoShop, Illustrator, InDesign ([see my design portfolio here](https://drive.google.com/file/d/0B5esC9AcPyIETVFMWkNBSkpLR3VScy1ocVYzZmhxNW5VbTZB/view?usp=sharing))
 
 ## Projects
 
