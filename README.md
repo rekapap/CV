@@ -26,7 +26,7 @@ Expanding my 'horizon' by learning new things, like Data Structures, Phaser.js, 
 - High-Level Design Skills / Architecture
 (e.g. [Database Server Tech Test](https://github.com/rekapap/database_server_tech_test), [Gilded Rose](https://github.com/rekapap/gilded-rose) or [Takeaway](https://github.com/rekapap/takeaway-challenge))
 - Problem Solving (🥚 e.g. [Problem solving](https://github.com/rekapap/Problem-solving) or [Java Problem Solving](https://github.com/rekapap/Java-problem-solving))
-- Deep interest in tech languages and libraries (e.g. [Java](https://github.com/rekapap/Java-problem-solving), [Swift](https://github.com/rekapap/secret-santa-mobile-app), [C#](https://github.com/rekapap/Hello-World-Unity), [C++](http://hr.gs/gutgem), [Python](https://github.com/rekapap/RPG-pyGame), [p5.js](https://github.com/rekapap/Halftone_effect_p5) etc.)
+- Deep interest in tech languages and libraries (e.g. [Java](https://github.com/rekapap/Java-problem-solving), [Swift](https://github.com/rekapap/secret-santa-mobile-app), [C#](https://github.com/rekapap/numberwizard), [C++](http://hr.gs/gutgem), [Python](https://github.com/rekapap/RPG-pyGame), [p5.js](https://github.com/rekapap/Halftone_effect_p5) etc.)
 - Self-Led Learning (e.g. [Data Structures](https://github.com/rekapap/data-structures) or other programming languages, see above)
 - Attention to detail (I like things to be 'pixel-perfect', a skill that I developed during my designer years)
 - Helping others (During the course and precourse I tried to share my knowledge with my peers as best as I could. I also mentored an other Maker from a cohort after mine.)
