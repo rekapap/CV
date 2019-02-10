@@ -35,24 +35,20 @@ Expanding my 'horizon' by learning new things, like Data Structures, Phaser.js, 
 ## Projects
 
 ### Makers Projects
-1. [Splitr](https://github.com/JL-J/splitr_app)
-  - A Native Mobile app that helps split task between friends in preparation for an event.
-  - ECMAScript 6, React Native, Redux, Jest, Enzyme, ESlint, Agile, Teamwork (XCode, Android Studio)
-2. [Makers BNB](https://github.com/toddpla/makersbnb)
-  - AirBNB 'Clone'
-  - Sinatra, Active Record ORM, Travis, Heroku, Pony, Twilio, Capybara, Rspec, simplecov, Rakefiles, Agile, Teamwork
-3. [Acebook](https://github.com/rekapap/acebook-busy-politicians)
-  - Facebook 'Clone'
-  - Ruby on Rails, JQuery, Devise, Travis, Heroku, Capybara, Rspec, Teamwork
-4. [Rock Paper Scissors >paste your own rules here<](https://github.com/rekapap/rps-challenge)
-  - RPS game that reads the rules from a JSON file to provide a fully customizable game play
-  - Ruby, JSON, Rspec, Architecture
+| Project        | Description          | Technologies |
+| ------------- |-------------| -----|
+| [Splitr](https://github.com/JL-J/splitr_app)     | A Native Mobile app that helps split task between friends in preparation for an event. | ECMAScript 6, React Native, Redux, Jest, Enzyme, ESlint, Agile, Teamwork (XCode, Android Studio) |
+| [Makers BNB](https://github.com/toddpla/makersbnb)     | AirBNB 'Clone'     | Sinatra, Active Record ORM, Travis, Heroku, Pony, Twilio, Capybara, Rspec, simplecov, Rakefiles, Agile, Teamwork |
+| [Acebook](https://github.com/rekapap/acebook-busy-politicians) | Facebook 'Clone'  | Ruby on Rails, JQuery, Devise, Travis, Heroku, Capybara, Rspec, Teamwork |
+| [Rock Paper Scissors >paste your own rules here<](https://github.com/rekapap/rps-challenge) | RPS game that reads the rules from a JSON file to provide a fully customizable game play | Ruby, JSON, Rspec, Architecture |
 
 ### My own favourite projects
-
-1. [Data Structures](https://github.com/rekapap/data-structures) - Exploring data structures in Ruby while reading 'The Algorithm Design Manual'
-2. [Halftone effect](https://github.com/rekapap/Halftone_effect_p5) - A fun Javascript project to create a halftone effect with p5.js
-3. [My first game in Ruby: RPSLS](https://github.com/rekapap/rock_paper_scissors) - It's the very first Ruby project I did before I even started the course.
+| Project        | Description          | Technologies |
+| ------------- |-------------| -----|
+|[Problem solving](https://github.com/rekapap/Problem-solving) & [Java Problem solving](https://github.com/rekapap/Java-problem-solving) | Solving problems from various websites | Ruby, Javascript, Regex & Java|
+| [Data Structures](https://github.com/rekapap/data-structures) | Exploring data structures in Ruby while reading 'The Algorithm Design Manual'  | Ruby, Rspec |
+|[Halftone effect](https://github.com/rekapap/Halftone_effect_p5)| A fun Javascript project to create a halftone effect with p5.js| JavaScript, p5.js |
+|[My first game in Ruby: RPSLS](https://github.com/rekapap/rock_paper_scissors)|It's the very first Ruby project I did before I even started the course.| Ruby|
 
 ## Education
 
