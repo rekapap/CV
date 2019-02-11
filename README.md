@@ -37,8 +37,8 @@ Expanding my 'horizon' by learning new things, like Data Structures, Phaser.js, 
 ### Makers Projects
 | Project        | Description          | Technologies |
 | ------------- |-------------| -----|
-| [Splitr](https://github.com/JL-J/splitr_app)     | A Native Mobile app that helps split task between friends in preparation for an event. | ECMAScript 6, React Native, Redux, Jest, Enzyme, ESlint, Agile, Teamwork (XCode, Android Studio) |
-| [Makers BNB](https://github.com/toddpla/makersbnb)     | AirBNB 'Clone'     | Sinatra, Active Record ORM, Travis, Heroku, Pony, Twilio, Capybara, Rspec, simplecov, Rakefiles, Agile, Teamwork |
+| [Splitr](https://github.com/rekapap/splitr_app)     | A Native Mobile app that helps split task between friends in preparation for an event. | ECMAScript 6, React Native, Redux, Jest, Enzyme, ESlint, Agile, Teamwork (XCode, Android Studio) |
+| [Makers BNB](https://github.com/rekapap/makersbnb)     | AirBNB 'Clone'     | Sinatra, Active Record ORM, Travis, Heroku, Pony, Twilio, Capybara, Rspec, simplecov, Rakefiles, Agile, Teamwork |
 | [Acebook](https://github.com/rekapap/acebook-busy-politicians) | Facebook 'Clone'  | Ruby on Rails, JQuery, Devise, Travis, Heroku, Capybara, Rspec, Teamwork |
 | [Rock Paper Scissors >paste your own rules here<](https://github.com/rekapap/rps-challenge) | RPS game that reads the rules from a JSON file to provide a fully customizable game play | Ruby, JSON, Rspec, Architecture |
 
