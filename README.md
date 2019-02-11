@@ -101,7 +101,7 @@ Expanding my 'horizon' by learning new things, like Data Structures, Phaser.js, 
 
 **Designer Intern @ Mediasales Kft.** Budapest (September 2013 – October 2013)
 
-- Facebook application designs from briefs (design and a bit of coding) (e.g. Bruno Mars Budapest tour 2013 event game app, Mekk Mester event game app)
+- Web designs, Facebook application designs from briefs (design and a bit of coding) (e.g. Bruno Mars Budapest tour 2013 event game app, Mekk Mester event game app)
 - **Skills Developed:** Working experience with HTML and CSS, Design softwares, Teamwork, Meeting deadlines
 
 
