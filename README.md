@@ -25,7 +25,7 @@ Expanding my 'horizon' by learning new things, like Data Structures, Phaser.js, 
 ### What I Bring
 - High-Level Design Skills / Architecture
 (e.g. [Database Server Tech Test](https://github.com/rekapap/database_server_tech_test), [Gilded Rose](https://github.com/rekapap/gilded-rose) or [Takeaway](https://github.com/rekapap/takeaway-challenge))
-- Problem Solving (🥚 e.g. [Problem solving](https://github.com/rekapap/Problem-solving) or [Java Problem Solving](https://github.com/rekapap/Java-problem-solving))
+- Problem Solving ([🥚](https://i.imgur.com/jvBVely.jpg) e.g. [Problem solving](https://github.com/rekapap/Problem-solving) or [Java Problem Solving](https://github.com/rekapap/Java-problem-solving))
 - Deep interest in tech languages and libraries (e.g. [Java](https://github.com/rekapap/Java-problem-solving), [C#](https://github.com/rekapap/numberwizard), [C++](http://hr.gs/gutgem), [Python](https://github.com/rekapap/RPG-pyGame), [p5.js](https://github.com/rekapap/Halftone_effect_p5), [Swift](https://github.com/rekapap/secret-santa-mobile-app) etc.)
 - Self-Led Learning (e.g. [Data Structures](https://github.com/rekapap/data-structures) or other programming languages, see above)
 - Attention to detail (I like things to be 'pixel-perfect', a skill that I developed during my designer years)
@@ -90,7 +90,7 @@ Expanding my 'horizon' by learning new things, like Data Structures, Phaser.js, 
 **Buying a New Property** (March 2015 - January 2016)
 
 - Researching the UK property market for a renovation project
-- **Skills developed:** Researching, Scheduling, 🥚, Time management
+- **Skills developed:** Researching, Scheduling, [🥚](https://i.imgur.com/jvBVely.jpg), Time management
 
 
 **Designer @ Habcsók Design** (formerly Pepitadots), Budapest (May 2013 – November 2014)
